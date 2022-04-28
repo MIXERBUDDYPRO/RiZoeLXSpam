@@ -308,11 +308,11 @@ GROUP = [-1001321613309, -1001749467927, -1001509154650, -1001355271574, -100139
 
 
 PORMS = [
-        "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
-        "https://telegra.ph/file/b7a1a42429a65f64e67af.mp4",
+        "https://telegra.ph/file/71b8c81d3600f5c0d964d.mp4",
+        "https://telegra.ph/file/c346afec29cdc9a505977.mp4",
         "https://telegra.ph/file/dc3da5a3eb77ae20fa21d.mp4",
-        "https://telegra.ph/file/22b89774a4ba9219d530b.mp4",
-        "https://telegra.ph/file/7b15fbca08ae1e73e559c.mp4",
+        "https://telegra.ph/file/41f677769573be8c98d9d.mp4",
+        "https://telegra.ph/file/246e01aa2ca20c47a48df.mp4",
         "https://telegra.ph/file/a9c1dea3f34925bb60686.mp4",
         "https://telegra.ph/file/913b4e567b7f435b7f0db.mp4",
         "https://telegra.ph/file/5a5d1a919a97af2314955.mp4",
