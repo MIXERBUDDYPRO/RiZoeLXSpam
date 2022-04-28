@@ -305,3 +305,28 @@ REPLYRAID = [
 ]
 
 
+PORN=[
+    
+    https://telegra.ph/file/71b8c81d3600f5c0d964d.mp4
+    https://telegra.ph/file/c346afec29cdc9a505977.mp4
+    https://telegra.ph/file/54a78b9652b9776c75b74.mp4
+    https://telegra.ph/file/41f677769573be8c98d9d.mp4
+    https://telegra.ph/file/246e01aa2ca20c47a48df.mp4
+    https://telegra.ph/file/badb6c63267a1039343ae.mp4
+    https://telegra.ph/file/7fa6d019d76454c78d645.mp4
+    https://telegra.ph/file/1c2b150eaf233dc7bbe09.mp4
+    https://telegra.ph/file/21ae8ac8a1caeb5ff88ee.mp4
+    https://telegra.ph/file/21ae8ac8a1caeb5ff88ee.mp4
+    https://telegra.ph/file/07890f19ce8ebfd4808a0.mp4
+    https://telegra.ph/file/3e72e2f7c78c6a00fa694.mp4
+    https://telegra.ph/file/3e72e2f7c78c6a00fa694.mp4
+    https://telegra.ph/file/3e72e2f7c78c6a00fa694.mp4
+    https://telegra.ph/file/ef8b269d6ae9716c4ba0b.mp4
+    https://telegra.ph/file/ef8b269d6ae9716c4ba0b.mp4
+    https://telegra.ph/file/32bff4ba9ab9c215b355f.mp4
+    https://telegra.ph/file/ecc0bb961d9d30113c153.mp4
+    https://telegra.ph/file/38651e10f154fa45321e9.mp4
+    https://telegra.ph/file/982136353933ddaa99006.mp4
+    https://telegra.ph/file/cf9dd2baed4a0e1896081.mp4
+    https://telegra.ph/file/e514cd24504c1fabf2712.mp4
+    
